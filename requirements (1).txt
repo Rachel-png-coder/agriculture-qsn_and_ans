@@ -1,0 +1,9 @@
+streamlit
+torch
+transformers>=5.0,<6
+scikit-learn
+scipy
+numpy
+joblib
+sentencepiece
+huggingface_hub
