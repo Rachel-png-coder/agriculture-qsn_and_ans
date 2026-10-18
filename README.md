@@ -2,7 +2,6 @@ An English question-answering assistant for crop-production questions. A fine-tu
 
 	
 Live app	https://agriculture-qsnandans-wausmntbpagefhsythxe63.streamlit.app/
-Demo video	https://youtu.be/1INTM2RKSYo
 Model and gate (Hugging Face Hub)	Toronga/agri-qa-flan-t5
 Dataset	talhakk/agriculture-qa (25,410 pairs before cleaning)
 Report	report/Agricultural_Advisory_QA_Report.pdf
